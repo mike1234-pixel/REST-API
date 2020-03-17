@@ -1,2 +1,2 @@
 # REST-API
-Basic RESTful API for a wiki.
+Basic RESTful wiki API.
